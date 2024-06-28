@@ -1,1 +1,1 @@
-{{ .pageTitle }}
+{{ .ServerInfo.OS }}
